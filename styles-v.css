@@ -1,0 +1,20 @@
+h1 {
+    margin: 50;
+    padding-left: 590px;
+}
+.etiquetaP{
+    background-color: rgb(155, 114, 154);
+}
+
+.etiqueta1{
+    color: rgb(0, 0, 0);
+}
+.etiqueta2{
+    margin: 50;
+    padding-left: 570px;
+    color: rgb(0, 0, 0);
+}    
+.etiquetaI{
+    margin: 50;
+    padding-left: 650px;
+}
